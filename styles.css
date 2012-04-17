@@ -1,5 +1,23 @@
 /*----------------------------Elementos-----------------------------*/
 
+* { margin:0; padding: 0; }
+
+p{ padding: 20px; }
+
+nav{ position: fixed; top: 15%; }
+
 /*----------------------------Clases-----------------------------*/
 
+/*.fondos{ margin: 30px 0; }*/
+
 /*----------------------------IDs-----------------------------*/
+
+#container{ margin: 0 auto;  width: 960px;  }
+
+#rojo{ background:red; }
+
+#amarillo { background:yellow; }
+
+#azul { background:blue; }
+
+#verde { background:green; }
